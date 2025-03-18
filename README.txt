@@ -1,4 +1,4 @@
-# C++ Elevator Simulator
+#C++ Elevator Simulator
 
 To run elevator simulator use the ElevatorSim Application or run ElevatorSim.cpp
 
