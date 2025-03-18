@@ -1,3 +1,5 @@
+# C++ Elevator Simulator
+
 To run elevator simulator use the ElevatorSim Application or run ElevatorSim.cpp
 
 Will ask for two parameters before beginning simulator, scale and capacity
